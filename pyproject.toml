@@ -1,0 +1,8 @@
+[project]
+name = "kote-md-task-parser"
+version = "0.1.0"
+description = "Parser tasks from md files."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]

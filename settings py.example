@@ -1,0 +1,10 @@
+import os
+
+# Путь к вашим заметкам
+DIRECTORY = "C:/Users/username/Documents/notes"
+
+# Путь к вашим заметкам
+EXCEPT_FILES = [ "README.md" ]
+
+# Файл результатов создается автоматически
+RESULTS_FILE = os.path.join(DIRECTORY, "Backlog.md")
